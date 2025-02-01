@@ -1,0 +1,1 @@
+import{h as t}from"./index-LFquQdQy.js";import"./index-Ban90EM2.js";import"./index-CKk1arhy.js";import"./index-NuJuMWxm.js";import"./index-Ct7NwmnN.js";const a={language:t,ext:["html","htm"]};export{a as default};
